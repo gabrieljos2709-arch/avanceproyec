@@ -1,0 +1,2 @@
+LIB-001|s|d|s|2
+LIB-002|caperucita|yo|terror|25
